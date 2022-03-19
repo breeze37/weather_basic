@@ -10,4 +10,4 @@ while (guess!=user_pass):
         guess=str(guess_letter)+str(guess)
         print(guess)
         
-print("Your password has been entered", guess)        
+print("Your password has been found", guess)        
